@@ -4,9 +4,9 @@
 # This program creates 200 or more statements containing names and results for example :
 
 
-Full Name: Player1 Points: 41
-Full Name: Player2 Points: 18467
-Full Name: Player3 Points: 6334
+Full Name: Player1 Points: 41 \n
+Full Name: Player2 Points: 18467 \n
+Full Name: Player3 Points: 6334 \n
 Full Name: Player4 Points: 26500
 Full Name: Player5 Points: 19169
 Full Name: Player6 Points: 15724

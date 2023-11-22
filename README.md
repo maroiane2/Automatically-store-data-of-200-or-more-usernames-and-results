@@ -1,7 +1,7 @@
 # # # Automatically store data of 200 or more usernames and results
 
 
-# This program creates 200 or more statements containing names and results for example :
+# This program creates 200 or more statements containing names and results and is stored in "output.txt" for example:
 
 
 Full Name: Player1 Points: 41 

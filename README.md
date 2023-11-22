@@ -13,12 +13,18 @@ Full Name: Player3 Points: 6334
 Full Name: Player4 Points: 26500
 
 Full Name: Player5 Points: 19169
+
 Full Name: Player6 Points: 15724
 Full Name: Player7 Points: 11478
+
 Full Name: Player8 Points: 29358
+
 Full Name: Player9 Points: 26962
+
 Full Name: Player10 Points: 24464
+
 Full Name: Player11 Points: 5705
+
 Full Name: Player12 Points: 28145
 Full Name: Player13 Points: 23281
 Full Name: Player14 Points: 16827
